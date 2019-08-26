@@ -4,7 +4,7 @@ VUE+VUE-CLI+ELEMENT实现的TODOLIST
 
 ## 使用方法
 
-> git clone https:https://github.com/l970322/vue-todo.git*
+> ` git clone https://github.com/l970322/vue-todo.git* `
 
 进入项目目录直接打开index.html
 
